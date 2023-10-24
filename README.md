@@ -18,9 +18,9 @@ Have a look at the following images for the results of the project.
 ![Desktop 3](/results/desktop/3.jpg)
 
 #### Mobile
-<img src="/results/mobile/1.jpg" width="50" >
-<img src="/results/mobile/2.jpg" width="50" >
-<img src="/results/mobile/3.jpg" width="50" >
+<img src="/results/mobile/1.jpg" width="400" >
+<img src="/results/mobile/2.jpg" width="400" >
+<img src="/results/mobile/3.jpg" width="400" >
 
 ## Installation
 The frontend can be started by running the following commands in the terminal:
